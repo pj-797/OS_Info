@@ -1,5 +1,5 @@
 # OS_Info
-Centre for Cybersecurity Projects
+Centre for Cybersecurity Project
 
 Objective:
 Create automation to display the Linux Operating System information.

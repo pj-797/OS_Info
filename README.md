@@ -5,7 +5,7 @@ Objective:
 Create automation to display the Linux Operating System information.
 
 To Run (on Linux Machine):
-  bash os_info.sh
+  bash OS_info.sh
 
   1. Display the Linux Version.
   2. Display the Private IP Address, Public IP Address, and the Default Gateway.

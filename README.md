@@ -4,7 +4,7 @@ Centre for Cybersecurity Project
 Objective:
 Create automation to display the Linux Operating System information.
 
-To Run (on Linux Machine):
+Usage:
 
 	bash OS_info.sh
 
